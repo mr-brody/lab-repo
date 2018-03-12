@@ -1,5 +1,5 @@
+I'm jacking this up
 # lab-repo
 #In mother russia, this file reads you!
-Modifying file for testing
-Simple update
-Conflict!
+
+It was broken before I got it
